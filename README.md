@@ -7,9 +7,9 @@
   
   ## Olá! Eu sou Osmar Menezes<br/>
 
-  🖥️ 🧑‍💻 Estudante de Análise e Desenvolvimento de Sistemnas.<br/>
+  🖥️ 🧑‍💻 Formado em Análise e Desenvolvimento de Sistemnas.<br/>
   📊 💵 Futuro Analista de Dados com foco Finanças.<br/>
-  💰 📈 Crio dashboards automatizados e de fácil usabilidade.<br/> 
+  💰 📈 Transformo dados em insights estratégicos.<br/> 
   ⚡ 🚀 Me esforçando diariamente para alcançar o meu objetivo!<br/>
 </div>
 
