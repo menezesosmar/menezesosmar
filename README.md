@@ -25,12 +25,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menezesosmar&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
-<div align='center'><br>
-  <img  alt="sql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
-  <img  alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;
-  <img  alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp;
-  <img  alt="javascript" src= "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;
+<div align='center'>
+
+<h3>
+  Ferramentas que domino: <br>
+</h3>
+  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,java,py,mysql)](https://skillicons.dev)
+  
 </div>
- <br>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D36B00&height=120&section=footer"/>
