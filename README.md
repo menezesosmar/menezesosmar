@@ -7,7 +7,7 @@
 ---
 
 ### Tecnologias que utilizo:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,java,py,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,html,css,js,java,git)](https://skillicons.dev)
 
 ---
 
