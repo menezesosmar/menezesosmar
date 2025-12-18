@@ -1,8 +1,10 @@
   ## Olá! Eu sou Osmar Menezes
 
-  🖥️ Formado em **Análise e Desenvolvimento de Sistemnas** pelo **Embarque Digital**<br/>
+  🖥️ Atuando como Analista de Sistemas na **Deloitte**<br/>
+  🧠 Pós-graduando em **Análise de Dados e Ferramentas de I.A** pela **CESAR School**<br/>
+  🌐 Formado em **Análise e Desenvolvimento de Sistemnas** pelo **Embarque Digital**<br/>
   💰 Transformo dados em insights estratégicos.<br/> 
-  ⚡ Me esforçando diariamente para alcançar o meu objetivo!<br/>
+  ⚡ Me esforçando diariamente para alcançar os meus objetivos!<br/>
   
 ---
 
