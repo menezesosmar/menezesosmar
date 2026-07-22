@@ -21,11 +21,3 @@
   <a href="https://instagram.com/osmar.json/#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
   </div>
-
-  <div>
-
-  <a href="https://github.com/menezesosmar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=menezesosmar&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menezesosmar&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  
-  </div>
